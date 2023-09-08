@@ -1,0 +1,4 @@
+{
+    "project_id": 2,
+    "document_types": ["train", "test", "no_status", "preparation"]
+}

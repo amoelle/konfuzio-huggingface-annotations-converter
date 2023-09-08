@@ -1,0 +1,4 @@
+pandas
+konfuzio_sdk
+nltk
+PIL
