@@ -1,4 +1,5 @@
 {
     "project_id": 2,
-    "document_types": ["train", "test", "no_status", "preparation"]
+    "document_types": ["train"],
+    "max_nr_docs_per_type": 3
 }
